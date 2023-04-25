@@ -1,5 +1,5 @@
 
-### Olá sou o Bruno👋
+### Olá, sou o Bruno👋
 
 Desenvolvedor com 5 anos de experiência. Formado em analise e desenvolvimento
 de sistemas pela Universidade nove de Julho.
@@ -16,7 +16,9 @@ JQuery, frameworks MVC e Web Forms;
 - Desenvolvimento Ágil através de SCRUM;
 - Controle de versão com Git/Hub;
 
+[![Linkedin Badge](https://img.shields.io/badge/-brunoldias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/bruno-louren%C3%A7o-520992172/)
+[![Instagram Badge](https://img.shields.io/badge/-brunoldias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://www.instagram.com/bruno.lourenc0/)
+[![Gmail Badge](https://img.shields.io/badge/-brunolourencodias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolourencodias@gmail.com)](mailto:brunolourencodias@gmail.com)
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=brunoldias)
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-louren%C3%A7o-520992172/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bruno.lourenc0/)
