@@ -7,7 +7,7 @@ Developer with 5 years of experience, graduated from Nove de Julho University, s
 [![Instagram Badge](https://img.shields.io/badge/-brunoldias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://www.instagram.com/bruno.lourenc0/)
 [![Gmail Badge](https://img.shields.io/badge/-brunolourencodias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolourencodias@gmail.com)](mailto:brunolourencodias@gmail.com)
 
-## 🚀💻 Tecnologias & Ferramentas
+## 🚀💻 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
